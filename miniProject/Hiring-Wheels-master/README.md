@@ -2,7 +2,7 @@
 
 ### Register API
 
-![WhatsApp Image 2022-11-02 at 8 10 06 PM](https://user-images.githubusercontent.com/65359506/199536422-3303e466-3352-4b71-88f0-05fee01d83d9.jpeg
+![image](https://user-images.githubusercontent.com/65359506/199536422-3303e466-3352-4b71-88f0-05fee01d83d9.jpeg)
 
 ### DataBase
 
